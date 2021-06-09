@@ -4,3 +4,4 @@ This repository contains my solution to various Leetcode Problems in Python.
 | ------------- | ------------- |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/TwoSum/TwoSum.py) |
 | [Three Sum](https://leetcode.com/problems/3sum/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/3sum/3sum.py) |
+| [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/NextPermutation/NextPermutation.py) |
