@@ -24,3 +24,6 @@ This repository contains my solution to various Leetcode Problems in Python.
 | 20 | [Letter combinations of phone number ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.py) |
 | 21 | [Generate parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/GenerateParentheses/GenerateParentheses.py) |
 | 22 | [Word search](https://leetcode.com/problems/word-search/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/WordSearch/WordSearch.py) |
+| 23 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/Subsets/Subsets.py) |
+| 24 | [Additive Number](https://leetcode.com/problems/additive-number/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/AdditiveNumber/AdditiveNumber.py) |
+| 25 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/CombinationSum/CombinationSum.py) |
