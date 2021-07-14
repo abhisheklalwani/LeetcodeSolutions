@@ -1,5 +1,5 @@
 # LeetcodeSolutions
-This repository contains my solution to various Leetcode Problems in Python.
+This repository contains my detailed solutions to various Leetcode Problems in Python.
 | #  | Question  | Solution|
 | ------------- | ------------- | ------------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/TwoSum/TwoSum.py) |
@@ -27,3 +27,9 @@ This repository contains my solution to various Leetcode Problems in Python.
 | 23 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/Subsets/Subsets.py) |
 | 24 | [Additive Number](https://leetcode.com/problems/additive-number/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/AdditiveNumber/AdditiveNumber.py) |
 | 25 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/CombinationSum/CombinationSum.py) |
+| 26 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/Permutations/Permutations.py) |
+| 27 | [Combinations](https://leetcode.com/problems/combinations/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/Combinations/Combinations.py) |
+| 28 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/LetterTilePossibilities/LetterTilePossibilities.py) |
+| 29 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/DesignCircularQueue/DesignCircularQueue.py) |
+| 30 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/DecodeString/DecodeString.py) |
+| 31 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/ValidParentheses/ValidParentheses.py) |
