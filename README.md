@@ -33,3 +33,6 @@ This repository contains my detailed solutions to various Leetcode Problems in P
 | 29 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/DesignCircularQueue/DesignCircularQueue.py) |
 | 30 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/DecodeString/DecodeString.py) |
 | 31 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/ValidParentheses/ValidParentheses.py) |
+| 29 | [Open The Lock](https://leetcode.com/problems/open-the-lock/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/OpenTheLock/OpenTheLock.py) |
+| 30 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/ImplementQueueUsingStacks/ImplementQueueUsingStacks.py) |
+| 31 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/MinStack/MinStack.py) |
