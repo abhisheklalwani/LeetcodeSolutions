@@ -36,3 +36,7 @@ This repository contains my detailed solutions to various Leetcode Problems in P
 | 29 | [Open The Lock](https://leetcode.com/problems/open-the-lock/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/OpenTheLock/OpenTheLock.py) |
 | 30 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/ImplementQueueUsingStacks/ImplementQueueUsingStacks.py) |
 | 31 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/MinStack/MinStack.py) |
+| 32 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/DailyTemperatures/DailyTemperatures.py) |
+| 33 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/MinimumAddtoMakeParenthesesValid/MinimumAddtoMakeParenthesesValid.py) |
+| 34 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/NumberofRecentCalls/NumberofRecentCalls.py) |
+| 35 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/TaskScheduler/TaskScheduler.py) |
