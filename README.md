@@ -40,3 +40,6 @@ This repository contains my detailed solutions to various Leetcode Problems in P
 | 36 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/MinimumAddtoMakeParenthesesValid/MinimumAddtoMakeParenthesesValid.py) |
 | 37 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/NumberofRecentCalls/NumberofRecentCalls.py) |
 | 38 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/TaskScheduler/TaskScheduler.py) |
+| 39 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/FloodFill/FloodFill.py) |
+| 40 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/NumberOfIslands/NumberOfIslands.py) |
+| 41 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/CourseSchedule/CourseSchedule.py) |
