@@ -43,3 +43,6 @@ This repository contains my detailed solutions to various Leetcode Problems in P
 | 39 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/FloodFill/FloodFill.py) |
 | 40 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/NumberOfIslands/NumberOfIslands.py) |
 | 41 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/CourseSchedule/CourseSchedule.py) |
+| 42 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/NumberOfProvinces/NumberOfProvinces.py) |
+| 43 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/01Matrix/01Matrix.py) |
+| 44 | [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/DetectCycleInAnUndirectedGraph/DetectCycleInAnUndirectedGraph.py) |
