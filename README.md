@@ -46,3 +46,6 @@ This repository contains my detailed solutions to various Leetcode Problems in P
 | 42 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/NumberOfProvinces/NumberOfProvinces.py) |
 | 43 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/01Matrix/01Matrix.py) |
 | 44 | [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/DetectCycleInAnUndirectedGraph/DetectCycleInAnUndirectedGraph.py) |
+| 45 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/PerfectSquares/PerfectSquares.py) |
+| 46 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/WordLadder/WordLadder.py) |
+| 47 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/RottingOranges/RottingOranges.py) |
