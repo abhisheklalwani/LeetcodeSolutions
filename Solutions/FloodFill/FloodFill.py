@@ -1,6 +1,6 @@
 '''
 Time Complexity - O(n^2) (Worst case all the elements will be added to the bfs_queue)
-Space Complexity - O(n^w) (Worst case all the elements will be added to the visited set)
+Space Complexity - O(n^2) (Worst case all the elements will be added to the visited set)
 Simple BFS Question.
 You start at the given row and column index and you add it to the bfs_queue and the visited set.
 Then, you check all the 4 surrounding valid indexes in the image.
