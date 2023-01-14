@@ -63,3 +63,6 @@ This repository contains my detailed solutions to various Leetcode Problems in P
 | 59 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/CoinChange/CoinChange.py) |
 | 60 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/MinimumFallingPathSum/MinimumFallingPathSum.py) |
 | 61 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/MinimumCostForTickets/MinimumCostForTickets.py) |
+| 62 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/HappyNumber/HappyNumber.py) |
+| 63 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/SpiralMatrix/SpiralMatrix.py) |
+| 64 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [Solution](https://github.com/abhisheklalwani/LeetcodeSolutions/blob/main/Solutions/WhereWilltheBallFall/WhereWilltheBallFall.py) |
